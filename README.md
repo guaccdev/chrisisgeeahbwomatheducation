@@ -1,45 +1,66 @@
-<div align='center'>
+<div align="center">
+    <h1>Interstellar V5</h1>
+    <h3>Interstellar is one of the most modern and popular unblocking sites.</h3>
+    
+### [Join our Discord!](https://discord.gg/interstellar)
+</div>
 
-### About Us
+> **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give us a star... besides, you know you want to...**
 
-Interstellar Games is one of the best modern unblocked games sites. Check it out <a href="https://interstellars.games">here</a>, if this link is blocked you can get more links in our <a href="https://dsc.gg/interstellarntwork">Discord Server!</a>
+<h2 align="center">Features</h2>
+<ul>
+    <li>About:Blank Cloaking</li>
+    <li>Fast Speeds</li>
+    <li>Wide collection of Games</li>
+    <li>Tab Cloaking</li>
+    <li>Wide collection of Apps</li>
+    <li>Built-In Tab System</li>
+    <li>Clean UI</li>
+    <li>Inspect Element</li>
+</ul>
 
-<a href="https://discord.gg/gointerstellar"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
-<a href="https://github.com/interstellarnetwork"><img height="30px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><img></a>
-</p>  
+<h2 align="center">Deployment</h2>
 
-### Deploying
-Interstellar is completely open source, so you can deploy it to these services!
+You can **NOT** deploy to Netlify, Cloudflare Pages, Github Pages or any other **static** Web Host.
 
-**Note:** All of the built in games will **NOT** work, since these services have a size limit.
-  
-<a target="_blank" href="https://replit.com/github/interstellarnetwork/interstellar-v4"><img alt="Run on Replit" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg"></a>
+> **Note**
+> Join our [Discord Server](https://discord.gg/interstellar) for more options & tutorials.
 
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://replit.com/github/interstellarnetwork/interstellar"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/interstellarnetwork/interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/InterstellarNetwork/IN-Render"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/interstellarnetwork/Interstellar"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
 
-### Project Activity
+## Deploy to Replit
+### **Replit will no longer be free starting January 1, 2024**
+1. Create a Replit Account (https://replit.com)
+2. Click **+ Create Repl**
+3. Click **Template** and Change the language to **Node.js**
+4. Then click **Create Repl**
+5. Click **Shell**
+- Paste the code below. (Ctrl + Shift + V)
+- `git clone https://github.com/interstellarnetwork/interstellar`
+6. Once it's done cloning paste the code below. (Ctrl + Shift + V)
+- ``cd interstellar && npm i && npm run start``
 
-![Alt](https://repobeats.axiom.co/api/embed/cb9f30f479ea962536e2507e469a04718173bf3c.svg "Repobeats analytics image")
-
-
-
-### Contributors 
-<img src="https://contrib.rocks/image?repo=interstellarnetwork/interstellarnetwork.github.io"/>
-
-### Credits
-
- <a href="https://github.com/Abyss-Services/abyss-browser">Abyss Browser</a>
-
-  <a href="https://github.com/3kh0/3kh0.github.io">Echo (3kh0)</a>
-
-
-
-
-
-
-
-
+## Quick Deploy to GitHub Codespaces
+1. Create a GitHub account if you haven't already
+2. Scroll up, click "Code" (green button), and then "Create Codespace on main"
+3. In the terminal on the bottom, paste `npm i && npm run start`
+4. You'll see a popup on the corner about an application. Click "Make public"
+5. Go to the ports tab on the top (next to the terminal tab), and then click the website that appears on the list.
+6. For subsequent uses in the same codespace, just run `npm run start`
 
 
+## If you need any help with deploying, join our Discord!
+- https://discord.gg/interstellar
 
+> **Note**
+> If you have any problems please open an issue, so we can fix it ASAP!<br>
+> If you don't know how to do this because you are an absolute no-brainer then message us a report in our [Discord](https://discord.gg/interstellar).
 
-  
+# Credits
+Huge thanks to following people for contributing to Interstellar!
+
+[![Contrib](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
